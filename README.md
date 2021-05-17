@@ -1,4 +1,4 @@
-# vcor
+# About this repo
 
-testing
-testing
+This is a repository to host scripts or workflows used in the paper by Ushijima et al (2021).
+
